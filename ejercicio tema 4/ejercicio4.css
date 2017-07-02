@@ -1,0 +1,78 @@
+#bloqueturquesa {
+    background-color: aquamarine;
+    width: auto;
+    height: 1000px;
+    padding-top: 20px;
+}
+    
+#bloque1 {
+    background-color: grey;
+    width: 95%;
+    height: 12%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bloque2 {
+    background-color: grey;
+    width: 95%;
+    height: 20%;
+    margin: 10px auto;
+   
+}
+
+#bloque3 {
+    width: 95%;
+    height: 20%;
+    margin: 10px auto;
+    
+}
+
+#bloque3a {
+    background-color: grey;
+    width: 48%;
+    height: 100%;
+    display: inline-block;
+}
+
+#bloque3b {
+    background-color: grey;
+    width: 48%;
+    height: 100%;
+    display: inline-block;
+    margin-left: 3%;
+}
+#bloque4 {
+    background-color: grey;
+    width: 95%;
+    height: 20%;
+    margin: 10px auto;
+}
+
+#bloque5 {
+    width: 95%;
+    height: 20%;
+    margin: 10px auto;
+    
+}
+
+#bloque5a {
+    background-color: grey;
+    width: 48%;
+    height: 100%;
+    display: inline-block;
+}
+
+#bloque5b {
+    background-color: grey;
+    width: 48%;
+    height: 100%;
+    display: inline-block;
+    margin-left: 3%;
+}
+
+
+
+    
+
+
